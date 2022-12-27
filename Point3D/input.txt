@@ -1,0 +1,5 @@
+A 12.4 56.6 100.2 PunctFrontiera
+B 94.3 45 34.6 PunctIntern
+C 90 32.7 45.1 PunctExtern
+D 130.6 34.6 205.3 PunctFrontiera
+E 23.9 98.4 53.2 PunctIntern

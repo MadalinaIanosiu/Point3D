@@ -1,0 +1,8 @@
+﻿  Point3D.cpp
+C:\Users\madah\source\repos\Point3D\Point3D.cpp(84,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PointType.cpp
+  Source.cpp
+C:\Users\madah\source\repos\Point3D\Source.cpp(53,21): warning C4305: 'initializing': truncation from 'int' to 'float'
+  Generating Code...
+C:\Users\madah\source\repos\Point3D\PointType.cpp(30): warning C4715: 'pointTypeToString': not all control paths return a value
+  Point3D.vcxproj -> C:\Users\madah\source\repos\Point3D\Debug\Point3D.exe
